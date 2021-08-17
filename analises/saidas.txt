@@ -1,0 +1,4608 @@
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 84419
+Paginas escritas: 14083
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 59035
+Paginas escritas: 10050
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 40341
+Paginas escritas: 7297
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 21639
+Paginas escritas: 4457
+Tempo gasto: 0.5625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 10190
+Paginas escritas: 2528
+Tempo gasto: 1
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4849
+Paginas escritas: 1210
+Tempo gasto: 1.48438
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 98067
+Paginas escritas: 16759
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 70315
+Paginas escritas: 12057
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 48526
+Paginas escritas: 8496
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 31698
+Paginas escritas: 5957
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 15609
+Paginas escritas: 3436
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6673
+Paginas escritas: 1773
+Tempo gasto: 1.03125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3432
+Paginas escritas: 733
+Tempo gasto: 1.20312
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2852
+Paginas escritas: 0
+Tempo gasto: 1.29688
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 132386
+Paginas escritas: 23565
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 92279
+Paginas escritas: 16308
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 65270
+Paginas escritas: 11670
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 44465
+Paginas escritas: 8146
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 26928
+Paginas escritas: 5418
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 11951
+Paginas escritas: 2992
+Tempo gasto: 0.515625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4825
+Paginas escritas: 1391
+Tempo gasto: 0.96875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2494
+Paginas escritas: 418
+Tempo gasto: 1.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 189322
+Paginas escritas: 35969
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 123445
+Paginas escritas: 22667
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 83950
+Paginas escritas: 15552
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 57600
+Paginas escritas: 10863
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 38430
+Paginas escritas: 7481
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 21527
+Paginas escritas: 4711
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 8198
+Paginas escritas: 2283
+Tempo gasto: 0.53125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3201
+Paginas escritas: 944
+Tempo gasto: 0.875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 263907
+Paginas escritas: 51199
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 170963
+Paginas escritas: 33391
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 109458
+Paginas escritas: 20625
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 72140
+Paginas escritas: 13794
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 47785
+Paginas escritas: 9188
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 30752
+Paginas escritas: 6120
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 14172
+Paginas escritas: 3370
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 5223
+Paginas escritas: 1501
+Tempo gasto: 0.5
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 370856
+Paginas escritas: 71036
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 227915
+Paginas escritas: 48062
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 147332
+Paginas escritas: 30666
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 93778
+Paginas escritas: 18860
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 60369
+Paginas escritas: 12357
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 38496
+Paginas escritas: 7918
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 22804
+Paginas escritas: 5026
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 9859
+Paginas escritas: 2516
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 84419
+Paginas escritas: 14083
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 59035
+Paginas escritas: 10050
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 40341
+Paginas escritas: 7297
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 21639
+Paginas escritas: 4457
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 10190
+Paginas escritas: 2528
+Tempo gasto: 1.03125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 4849
+Paginas escritas: 1210
+Tempo gasto: 1.48438
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 98067
+Paginas escritas: 16759
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 70315
+Paginas escritas: 12057
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 48526
+Paginas escritas: 8496
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 31698
+Paginas escritas: 5957
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 15609
+Paginas escritas: 3436
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 6673
+Paginas escritas: 1773
+Tempo gasto: 1.0625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 3432
+Paginas escritas: 733
+Tempo gasto: 1.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2852
+Paginas escritas: 0
+Tempo gasto: 1.3125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 132386
+Paginas escritas: 23565
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 92279
+Paginas escritas: 16308
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 65270
+Paginas escritas: 11670
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 44465
+Paginas escritas: 8146
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 26928
+Paginas escritas: 5418
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 11951
+Paginas escritas: 2992
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 4825
+Paginas escritas: 1391
+Tempo gasto: 1
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2494
+Paginas escritas: 418
+Tempo gasto: 1.14062
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 189322
+Paginas escritas: 35969
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 123445
+Paginas escritas: 22667
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 83950
+Paginas escritas: 15552
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 57600
+Paginas escritas: 10863
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 38430
+Paginas escritas: 7481
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 21527
+Paginas escritas: 4711
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 8198
+Paginas escritas: 2283
+Tempo gasto: 0.515625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3201
+Paginas escritas: 944
+Tempo gasto: 0.859375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 263907
+Paginas escritas: 51199
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 170963
+Paginas escritas: 33391
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 109458
+Paginas escritas: 20625
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 72140
+Paginas escritas: 13794
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 47785
+Paginas escritas: 9188
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 30752
+Paginas escritas: 6120
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 14172
+Paginas escritas: 3370
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 5223
+Paginas escritas: 1501
+Tempo gasto: 0.515625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 370856
+Paginas escritas: 71036
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 227915
+Paginas escritas: 48062
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 147332
+Paginas escritas: 30666
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 93778
+Paginas escritas: 18860
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 60369
+Paginas escritas: 12357
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 38496
+Paginas escritas: 7918
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 22804
+Paginas escritas: 5026
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 9859
+Paginas escritas: 2516
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 84419
+Paginas escritas: 14083
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 59035
+Paginas escritas: 10050
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 40341
+Paginas escritas: 7297
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 21639
+Paginas escritas: 4457
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 10190
+Paginas escritas: 2528
+Tempo gasto: 1.01562
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 4849
+Paginas escritas: 1210
+Tempo gasto: 1.5
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3621
+Paginas escritas: 0
+Tempo gasto: 1.60938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 98067
+Paginas escritas: 16759
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 70315
+Paginas escritas: 12057
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 48526
+Paginas escritas: 8496
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 31698
+Paginas escritas: 5957
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 15609
+Paginas escritas: 3436
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 6673
+Paginas escritas: 1773
+Tempo gasto: 1.01562
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 3432
+Paginas escritas: 733
+Tempo gasto: 1.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2852
+Paginas escritas: 0
+Tempo gasto: 1.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 132386
+Paginas escritas: 23565
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 92279
+Paginas escritas: 16308
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 65270
+Paginas escritas: 11670
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 44465
+Paginas escritas: 8146
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 26928
+Paginas escritas: 5418
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 11951
+Paginas escritas: 2992
+Tempo gasto: 0.53125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 4825
+Paginas escritas: 1391
+Tempo gasto: 0.984375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2494
+Paginas escritas: 418
+Tempo gasto: 1.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 189322
+Paginas escritas: 35969
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 123445
+Paginas escritas: 22667
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 83950
+Paginas escritas: 15552
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 57600
+Paginas escritas: 10863
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 38430
+Paginas escritas: 7481
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 21527
+Paginas escritas: 4711
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 8198
+Paginas escritas: 2283
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3201
+Paginas escritas: 944
+Tempo gasto: 0.890625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 263907
+Paginas escritas: 51199
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 170963
+Paginas escritas: 33391
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 109458
+Paginas escritas: 20625
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 72140
+Paginas escritas: 13794
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 47785
+Paginas escritas: 9188
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 30752
+Paginas escritas: 6120
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 14172
+Paginas escritas: 3370
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 5223
+Paginas escritas: 1501
+Tempo gasto: 0.515625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 370856
+Paginas escritas: 71036
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 227915
+Paginas escritas: 48062
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 147332
+Paginas escritas: 30666
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 93778
+Paginas escritas: 18860
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 60369
+Paginas escritas: 12357
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 38496
+Paginas escritas: 7918
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 22804
+Paginas escritas: 5026
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compilador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 9859
+Paginas escritas: 2516
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1928
+Paginas escritas: 659
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1249
+Paginas escritas: 428
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 772
+Paginas escritas: 215
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.703125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2497
+Paginas escritas: 852
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1467
+Paginas escritas: 517
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 891
+Paginas escritas: 311
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 511
+Paginas escritas: 138
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.53125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3235
+Paginas escritas: 1127
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1804
+Paginas escritas: 640
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1030
+Paginas escritas: 386
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 570
+Paginas escritas: 197
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.453125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 11214
+Paginas escritas: 2284
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2862
+Paginas escritas: 1049
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1495
+Paginas escritas: 570
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 850
+Paginas escritas: 338
+Tempo gasto: 0.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 430
+Paginas escritas: 142
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 113347
+Paginas escritas: 41056
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 10640
+Paginas escritas: 2148
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2234
+Paginas escritas: 796
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1119
+Paginas escritas: 441
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 640
+Paginas escritas: 259
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 308
+Paginas escritas: 101
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 216584
+Paginas escritas: 50592
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 104991
+Paginas escritas: 34603
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 10332
+Paginas escritas: 2062
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 1956
+Paginas escritas: 736
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 890
+Paginas escritas: 376
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 444
+Paginas escritas: 187
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 155
+Paginas escritas: 20
+Tempo gasto: 0.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 137
+Paginas escritas: 0
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 1928
+Paginas escritas: 659
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 1249
+Paginas escritas: 428
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 772
+Paginas escritas: 215
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.734375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.734375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 2497
+Paginas escritas: 852
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 1467
+Paginas escritas: 517
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 891
+Paginas escritas: 311
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 511
+Paginas escritas: 138
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.5625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 3235
+Paginas escritas: 1127
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 1804
+Paginas escritas: 640
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 1030
+Paginas escritas: 386
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 570
+Paginas escritas: 197
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.453125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 11214
+Paginas escritas: 2284
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 2862
+Paginas escritas: 1049
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 1495
+Paginas escritas: 570
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 850
+Paginas escritas: 338
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 430
+Paginas escritas: 142
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 113347
+Paginas escritas: 41056
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 10640
+Paginas escritas: 2148
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 2234
+Paginas escritas: 796
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 1119
+Paginas escritas: 441
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 640
+Paginas escritas: 259
+Tempo gasto: 0.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 308
+Paginas escritas: 101
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 216584
+Paginas escritas: 50592
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 104991
+Paginas escritas: 34603
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 10332
+Paginas escritas: 2062
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 1956
+Paginas escritas: 736
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 890
+Paginas escritas: 376
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 444
+Paginas escritas: 187
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 155
+Paginas escritas: 20
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 137
+Paginas escritas: 0
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 1928
+Paginas escritas: 659
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 1249
+Paginas escritas: 428
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 772
+Paginas escritas: 215
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.703125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 419
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 2497
+Paginas escritas: 852
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 1467
+Paginas escritas: 517
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 891
+Paginas escritas: 311
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 511
+Paginas escritas: 138
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 317
+Paginas escritas: 0
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 3235
+Paginas escritas: 1127
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 1804
+Paginas escritas: 640
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 1030
+Paginas escritas: 386
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 570
+Paginas escritas: 197
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.453125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 255
+Paginas escritas: 0
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 11214
+Paginas escritas: 2284
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 2862
+Paginas escritas: 1049
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 1495
+Paginas escritas: 570
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 850
+Paginas escritas: 338
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 430
+Paginas escritas: 142
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 209
+Paginas escritas: 0
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 113347
+Paginas escritas: 41056
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 10640
+Paginas escritas: 2148
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 2234
+Paginas escritas: 796
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 1119
+Paginas escritas: 441
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 640
+Paginas escritas: 259
+Tempo gasto: 0.21875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 308
+Paginas escritas: 101
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 172
+Paginas escritas: 0
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 216584
+Paginas escritas: 50592
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 104991
+Paginas escritas: 34603
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 10332
+Paginas escritas: 2062
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 1956
+Paginas escritas: 736
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 890
+Paginas escritas: 376
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 444
+Paginas escritas: 187
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 155
+Paginas escritas: 20
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/compressor.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 137
+Paginas escritas: 0
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 36893
+Paginas escritas: 8637
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 20441
+Paginas escritas: 5349
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 10669
+Paginas escritas: 3285
+Tempo gasto: 0.359375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6097
+Paginas escritas: 2033
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4027
+Paginas escritas: 1351
+Tempo gasto: 0.4375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3367
+Paginas escritas: 724
+Tempo gasto: 0.609375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.8125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.796875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 81638
+Paginas escritas: 18176
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 30422
+Paginas escritas: 7592
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 17523
+Paginas escritas: 4944
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 8551
+Paginas escritas: 2859
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4850
+Paginas escritas: 1662
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3264
+Paginas escritas: 1048
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2798
+Paginas escritas: 407
+Tempo gasto: 0.515625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2543
+Paginas escritas: 0
+Tempo gasto: 0.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 211346
+Paginas escritas: 47010
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 77190
+Paginas escritas: 17375
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 27104
+Paginas escritas: 6919
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 15410
+Paginas escritas: 4516
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6672
+Paginas escritas: 2302
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3840
+Paginas escritas: 1402
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2778
+Paginas escritas: 885
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2326
+Paginas escritas: 165
+Tempo gasto: 0.5625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 324507
+Paginas escritas: 54843
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 205727
+Paginas escritas: 46099
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 70151
+Paginas escritas: 15982
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 22815
+Paginas escritas: 6120
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 12021
+Paginas escritas: 3824
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4910
+Paginas escritas: 1827
+Tempo gasto: 0.3125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3027
+Paginas escritas: 1141
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2294
+Paginas escritas: 711
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 403797
+Paginas escritas: 56910
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 314398
+Paginas escritas: 54456
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 188541
+Paginas escritas: 43099
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 59061
+Paginas escritas: 13547
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 19309
+Paginas escritas: 5295
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 9506
+Paginas escritas: 3150
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4013
+Paginas escritas: 1500
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 2461
+Paginas escritas: 919
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 458585
+Paginas escritas: 59417
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 350270
+Paginas escritas: 56339
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 271380
+Paginas escritas: 53923
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 137751
+Paginas escritas: 33692
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 40262
+Paginas escritas: 9338
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 14861
+Paginas escritas: 4231
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6848
+Paginas escritas: 2416
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3175
+Paginas escritas: 1198
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 36893
+Paginas escritas: 8637
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 20441
+Paginas escritas: 5349
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 10669
+Paginas escritas: 3285
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 6097
+Paginas escritas: 2033
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 4027
+Paginas escritas: 1351
+Tempo gasto: 0.453125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 3367
+Paginas escritas: 724
+Tempo gasto: 0.625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.8125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.796875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 81638
+Paginas escritas: 18176
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 30422
+Paginas escritas: 7592
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 17523
+Paginas escritas: 4944
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 8551
+Paginas escritas: 2859
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 4850
+Paginas escritas: 1662
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 3264
+Paginas escritas: 1048
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 2798
+Paginas escritas: 407
+Tempo gasto: 0.53125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2543
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 211346
+Paginas escritas: 47010
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 77190
+Paginas escritas: 17375
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 27104
+Paginas escritas: 6919
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 15410
+Paginas escritas: 4516
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 6672
+Paginas escritas: 2302
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 3840
+Paginas escritas: 1402
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 2778
+Paginas escritas: 885
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2326
+Paginas escritas: 165
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 324507
+Paginas escritas: 54843
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 205727
+Paginas escritas: 46099
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 70151
+Paginas escritas: 15982
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 22815
+Paginas escritas: 6120
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 12021
+Paginas escritas: 3824
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 4910
+Paginas escritas: 1827
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 3027
+Paginas escritas: 1141
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2294
+Paginas escritas: 711
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 403797
+Paginas escritas: 56910
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 314398
+Paginas escritas: 54456
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 188541
+Paginas escritas: 43099
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 59061
+Paginas escritas: 13547
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 19309
+Paginas escritas: 5295
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 9506
+Paginas escritas: 3150
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 4013
+Paginas escritas: 1500
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 2461
+Paginas escritas: 919
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 458585
+Paginas escritas: 59417
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 350270
+Paginas escritas: 56339
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 271380
+Paginas escritas: 53923
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 137751
+Paginas escritas: 33692
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 40262
+Paginas escritas: 9338
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 14861
+Paginas escritas: 4231
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 6848
+Paginas escritas: 2416
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3175
+Paginas escritas: 1198
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 36893
+Paginas escritas: 8637
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 20441
+Paginas escritas: 5349
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 10669
+Paginas escritas: 3285
+Tempo gasto: 0.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 6097
+Paginas escritas: 2033
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 4027
+Paginas escritas: 1351
+Tempo gasto: 0.4375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 3367
+Paginas escritas: 724
+Tempo gasto: 0.640625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.828125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2994
+Paginas escritas: 0
+Tempo gasto: 0.8125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 81638
+Paginas escritas: 18176
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 30422
+Paginas escritas: 7592
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 17523
+Paginas escritas: 4944
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 8551
+Paginas escritas: 2859
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 4850
+Paginas escritas: 1662
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 3264
+Paginas escritas: 1048
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 2798
+Paginas escritas: 407
+Tempo gasto: 0.53125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2543
+Paginas escritas: 0
+Tempo gasto: 0.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 211346
+Paginas escritas: 47010
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 77190
+Paginas escritas: 17375
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 27104
+Paginas escritas: 6919
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 15410
+Paginas escritas: 4516
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 6672
+Paginas escritas: 2302
+Tempo gasto: 0.328125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 3840
+Paginas escritas: 1402
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 2778
+Paginas escritas: 885
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2326
+Paginas escritas: 165
+Tempo gasto: 0.546875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 324507
+Paginas escritas: 54843
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 205727
+Paginas escritas: 46099
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 70151
+Paginas escritas: 15982
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 22815
+Paginas escritas: 6120
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 12021
+Paginas escritas: 3824
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 4910
+Paginas escritas: 1827
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 3027
+Paginas escritas: 1141
+Tempo gasto: 0.296875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2294
+Paginas escritas: 711
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 403797
+Paginas escritas: 56910
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 314398
+Paginas escritas: 54456
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 188541
+Paginas escritas: 43099
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 59061
+Paginas escritas: 13547
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 19309
+Paginas escritas: 5295
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 9506
+Paginas escritas: 3150
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 4013
+Paginas escritas: 1500
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 2461
+Paginas escritas: 919
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 458585
+Paginas escritas: 59417
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 350270
+Paginas escritas: 56339
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 271380
+Paginas escritas: 53923
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 137751
+Paginas escritas: 33692
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 40262
+Paginas escritas: 9338
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 14861
+Paginas escritas: 4231
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 6848
+Paginas escritas: 2416
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/matriz.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3175
+Paginas escritas: 1198
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 59155
+Paginas escritas: 14134
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 34943
+Paginas escritas: 9872
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 20163
+Paginas escritas: 6755
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 11449
+Paginas escritas: 4552
+Tempo gasto: 0.5625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 7663
+Paginas escritas: 3308
+Tempo gasto: 1.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6168
+Paginas escritas: 2507
+Tempo gasto: 2.3125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 5333
+Paginas escritas: 937
+Tempo gasto: 2.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 5144
+Paginas escritas: 0
+Tempo gasto: 2.92188
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 85283
+Paginas escritas: 18806
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 48301
+Paginas escritas: 11945
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 27778
+Paginas escritas: 8367
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 15440
+Paginas escritas: 5455
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 8089
+Paginas escritas: 3384
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 5492
+Paginas escritas: 2408
+Tempo gasto: 1.07812
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4314
+Paginas escritas: 1624
+Tempo gasto: 1.79688
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3890
+Paginas escritas: 0
+Tempo gasto: 2.32812
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 131827
+Paginas escritas: 30140
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 78338
+Paginas escritas: 17773
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 42421
+Paginas escritas: 11152
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 22816
+Paginas escritas: 7433
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 11884
+Paginas escritas: 4683
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6293
+Paginas escritas: 2858
+Tempo gasto: 0.609375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 4528
+Paginas escritas: 2052
+Tempo gasto: 0.953125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3669
+Paginas escritas: 1203
+Tempo gasto: 1.6875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 208367
+Paginas escritas: 53738
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 119307
+Paginas escritas: 28226
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 70724
+Paginas escritas: 16598
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 37606
+Paginas escritas: 10409
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 18800
+Paginas escritas: 6620
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 9188
+Paginas escritas: 4014
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 5108
+Paginas escritas: 2453
+Tempo gasto: 0.734375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3751
+Paginas escritas: 1721
+Tempo gasto: 1.01562
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 274439
+Paginas escritas: 81612
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 174434
+Paginas escritas: 47043
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 101483
+Paginas escritas: 24766
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 60922
+Paginas escritas: 14654
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 31700
+Paginas escritas: 9211
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 14066
+Paginas escritas: 5380
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 6783
+Paginas escritas: 3152
+Tempo gasto: 0.453125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3837
+Paginas escritas: 1890
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: NEWALG
+Paginas lidas: 427573
+Paginas escritas: 128206
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: NEWALG
+Paginas lidas: 248262
+Paginas escritas: 75439
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: NEWALG
+Paginas lidas: 152352
+Paginas escritas: 40997
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: NEWALG
+Paginas lidas: 81506
+Paginas escritas: 19786
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: NEWALG
+Paginas lidas: 46770
+Paginas escritas: 10970
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: NEWALG
+Paginas lidas: 20809
+Paginas escritas: 6532
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: NEWALG
+Paginas lidas: 8367
+Paginas escritas: 3479
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: NEWALG
+Paginas lidas: 3934
+Paginas escritas: 1903
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 59155
+Paginas escritas: 14134
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 34943
+Paginas escritas: 9872
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 20163
+Paginas escritas: 6755
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 11449
+Paginas escritas: 4552
+Tempo gasto: 0.59375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 7663
+Paginas escritas: 3308
+Tempo gasto: 1.17188
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 6168
+Paginas escritas: 2507
+Tempo gasto: 2.42188
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 5333
+Paginas escritas: 937
+Tempo gasto: 2.79688
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 5144
+Paginas escritas: 0
+Tempo gasto: 2.95312
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 85283
+Paginas escritas: 18806
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 48301
+Paginas escritas: 11945
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 27778
+Paginas escritas: 8367
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 15440
+Paginas escritas: 5455
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 8089
+Paginas escritas: 3384
+Tempo gasto: 0.46875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 5492
+Paginas escritas: 2408
+Tempo gasto: 1.09375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 4314
+Paginas escritas: 1624
+Tempo gasto: 1.84375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3890
+Paginas escritas: 0
+Tempo gasto: 2.35938
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 131827
+Paginas escritas: 30140
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 78338
+Paginas escritas: 17773
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 42421
+Paginas escritas: 11152
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 22816
+Paginas escritas: 7433
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 11884
+Paginas escritas: 4683
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 6293
+Paginas escritas: 2858
+Tempo gasto: 0.609375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 4528
+Paginas escritas: 2052
+Tempo gasto: 1.01562
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3669
+Paginas escritas: 1203
+Tempo gasto: 1.75
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 208367
+Paginas escritas: 53738
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 119307
+Paginas escritas: 28226
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 70724
+Paginas escritas: 16598
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 37606
+Paginas escritas: 10409
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 18800
+Paginas escritas: 6620
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 9188
+Paginas escritas: 4014
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 5108
+Paginas escritas: 2453
+Tempo gasto: 0.703125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3751
+Paginas escritas: 1721
+Tempo gasto: 1.04688
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 274439
+Paginas escritas: 81612
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 174434
+Paginas escritas: 47043
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 101483
+Paginas escritas: 24766
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 60922
+Paginas escritas: 14654
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 31700
+Paginas escritas: 9211
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 14066
+Paginas escritas: 5380
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 6783
+Paginas escritas: 3152
+Tempo gasto: 0.4375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3837
+Paginas escritas: 1890
+Tempo gasto: 0.578125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: LRU
+Paginas lidas: 427573
+Paginas escritas: 128206
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: LRU
+Paginas lidas: 248262
+Paginas escritas: 75439
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: LRU
+Paginas lidas: 152352
+Paginas escritas: 40997
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: LRU
+Paginas lidas: 81506
+Paginas escritas: 19786
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: LRU
+Paginas lidas: 46770
+Paginas escritas: 10970
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: LRU
+Paginas lidas: 20809
+Paginas escritas: 6532
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: LRU
+Paginas lidas: 8367
+Paginas escritas: 3479
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: LRU
+Paginas lidas: 3934
+Paginas escritas: 1903
+Tempo gasto: 0.40625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 59155
+Paginas escritas: 14134
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 34943
+Paginas escritas: 9872
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 20163
+Paginas escritas: 6755
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 11449
+Paginas escritas: 4552
+Tempo gasto: 0.59375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 7663
+Paginas escritas: 3308
+Tempo gasto: 1.14062
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 6168
+Paginas escritas: 2507
+Tempo gasto: 2.34375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 5333
+Paginas escritas: 937
+Tempo gasto: 2.76562
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 2
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 5144
+Paginas escritas: 0
+Tempo gasto: 2.89062
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 85283
+Paginas escritas: 18806
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 48301
+Paginas escritas: 11945
+Tempo gasto: 0.203125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 27778
+Paginas escritas: 8367
+Tempo gasto: 0.25
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 15440
+Paginas escritas: 5455
+Tempo gasto: 0.375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 8089
+Paginas escritas: 3384
+Tempo gasto: 0.484375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 5492
+Paginas escritas: 2408
+Tempo gasto: 1.07812
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 4314
+Paginas escritas: 1624
+Tempo gasto: 1.79688
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 4
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3890
+Paginas escritas: 0
+Tempo gasto: 2.3125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 131827
+Paginas escritas: 30140
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 78338
+Paginas escritas: 17773
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 42421
+Paginas escritas: 11152
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 22816
+Paginas escritas: 7433
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 11884
+Paginas escritas: 4683
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 6293
+Paginas escritas: 2858
+Tempo gasto: 0.609375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 4528
+Paginas escritas: 2052
+Tempo gasto: 0.96875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 8
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3669
+Paginas escritas: 1203
+Tempo gasto: 1.71875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 208367
+Paginas escritas: 53738
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 119307
+Paginas escritas: 28226
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 70724
+Paginas escritas: 16598
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 37606
+Paginas escritas: 10409
+Tempo gasto: 0.1875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 18800
+Paginas escritas: 6620
+Tempo gasto: 0.28125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 9188
+Paginas escritas: 4014
+Tempo gasto: 0.390625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 5108
+Paginas escritas: 2453
+Tempo gasto: 0.734375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 16
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3751
+Paginas escritas: 1721
+Tempo gasto: 1.09375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 274439
+Paginas escritas: 81612
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 174434
+Paginas escritas: 47043
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 101483
+Paginas escritas: 24766
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 60922
+Paginas escritas: 14654
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 31700
+Paginas escritas: 9211
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 14066
+Paginas escritas: 5380
+Tempo gasto: 0.265625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 6783
+Paginas escritas: 3152
+Tempo gasto: 0.421875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 32
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3837
+Paginas escritas: 1890
+Tempo gasto: 0.59375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 128
+Tecnica de reposicao: FIFO
+Paginas lidas: 427573
+Paginas escritas: 128206
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 256
+Tecnica de reposicao: FIFO
+Paginas lidas: 248262
+Paginas escritas: 75439
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 512
+Tecnica de reposicao: FIFO
+Paginas lidas: 152352
+Paginas escritas: 40997
+Tempo gasto: 0.140625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 1024
+Tecnica de reposicao: FIFO
+Paginas lidas: 81506
+Paginas escritas: 19786
+Tempo gasto: 0.125
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 2048
+Tecnica de reposicao: FIFO
+Paginas lidas: 46770
+Paginas escritas: 10970
+Tempo gasto: 0.15625
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 4096
+Tecnica de reposicao: FIFO
+Paginas lidas: 20809
+Paginas escritas: 6532
+Tempo gasto: 0.171875
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 8192
+Tecnica de reposicao: FIFO
+Paginas lidas: 8367
+Paginas escritas: 3479
+Tempo gasto: 0.234375
+Executando o simulador...
+Arquivo de entrada: ../exemplos/simulador.log
+Tamanho das paginas: 64
+Tamanho da memória: 16384
+Tecnica de reposicao: FIFO
+Paginas lidas: 3934
+Paginas escritas: 1903
+Tempo gasto: 0.40625
